@@ -74,3 +74,12 @@ int main() {
 
     return 0;
 }
+```
+## **Output:**
+
+```c
+Enter the number of array elements: 5
+Enter the array elements: 10 20 30 40 50
+Enter the number to be inserted: 99
+Enter the position to insert: 3
+New array is: 10   20   99   30   40   50
