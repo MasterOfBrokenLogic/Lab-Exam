@@ -1,5 +1,7 @@
 # Insertion into Array
 
+For Detailed Explanation and Steps, refer to the program: [Array Insertion](./arrayInsertion.c)
+
 ## Problem Statement:
 We are tasked with inserting a number into a specific position of an array. This program will demonstrate how to achieve this by shifting elements in the array to make space for the new element.
 
