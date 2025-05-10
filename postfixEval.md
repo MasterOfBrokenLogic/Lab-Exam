@@ -1,5 +1,7 @@
 # Postfix Expression Evaluation Using Stack
 
+For Detailed Explanation and Steps, refer to the program: [Postfix Evaluation](./postfixEval.c)
+
 ## Problem Description:
 In this program, we evaluate a postfix expression using a stack. The postfix expression is a mathematical expression where the operator follows the operands. The program will read a postfix expression, process it, and display the result.
 
