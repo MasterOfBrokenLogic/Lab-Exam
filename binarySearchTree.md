@@ -1,4 +1,6 @@
-# [Binary Search Tree](./binarySearchTree.c) (BST) Operations in C
+# Binary Search Tree (BST) Operations in C
+
+For Detailed Explanation and Steps, refer to the program: [Binary Search Tree](./binarySearchTree.c)
 
 This program demonstrates the operations on a **Binary Search Tree** (BST) including **Insertion** and different types of **Traversal** (Inorder, Preorder, Postorder). The program allows the user to interactively insert nodes into the tree and perform traversals.
 
