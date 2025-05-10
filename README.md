@@ -7,7 +7,7 @@
 
 ---
 
-This repository contains 12 core Data Structure programs in C. Each program is designed for BCA/BSc CS lab exams with simple logic, commented code, and clean output.
+This repository contains 12 core Data Structure programs in C. Each program is designed for BCA DS lab exams with simple logic, commented code, and clean output.
 
 ---
 
